@@ -15,7 +15,7 @@ Uploading to a cloud over local storage accomplishes 2 benefits.
 As long as a service doesn’t require you to be physically close to the storage hardware, it can deliver information to you from the cloud. Deposit a check through your phone? Upload a photo for your friends?  You’re in the cloud!
 
 ### Cloud services take 3 forms:
-![Alt text](images/cloud_cloudDeploymentModel.jpg)
+![Alt text](images/cloud_cloudDeploymentModel.JPG)
 
 ### Public clouds share storage and computing space
 Public clouds are owned and operated by companies that offer their customers rapid access to affordable computing resources. This is the classic cloud computing model, in which small businesses and individuals like you can access a lot of computing power over the Internet. It’s easy to scale when users need more power or storage. Because many users are working inside one large bank of information but their data must be kept separate and secure, this kind of cloud is organized by what’s called multi-tenant architecture.
@@ -28,7 +28,7 @@ What if a business needs the low cost and scalability of a public cloud, but als
 
 A hybrid cloud mixes public and private resources. It’s a bit of this and a bit of that, with some data in a public cloud, and some in a private cloud, provided by multiple vendors who offer different levels of cloud usage. A hybrid cloud’s combination of physical and virtual servers allows organizations to rent what they need, on demand, helping them control costs while providing some flexibility.
 
-![Alt text](images/cloud_cloudDeploymentOptions.jpg)
+![Alt text](images/cloud_cloudDeploymentOptions.JPG)
 
 ## Cloud "as a service"
 ### Three service models
@@ -40,7 +40,7 @@ The three most popular service models of cloud computing:
  - Platform as a service (PaaS)
  - Infrastructure as a service (IaaS)
 
-![Alt text](images/cloud_cloudAsAService.jpg)
+![Alt text](images/cloud_cloudAsAService.JPG)
 
 ### SaaS
 With SaaS, software and data both reside online. Users can log in on a browser from almost any kind of device on almost any operating system, enter what they need, and out pops their result. Since their organization doesn’t need special software to use SaaS, it doesn’t have to buy applications. Instead it pays for yearly or per-user subscriptions to the service.
