@@ -179,3 +179,19 @@ added to the world every day!
 - Cloud Network Engineer
 - Cloud Automation Engineer
 
+
+## How is Cloud Computing used
+
+### Cloud helps businesses thrive, three major values:
+The benefits of cloud computing vary by how individual business uses it. Every company wants to control costs. Beyond that, different businesses have different requirements. We can summarize cloud’s benefits with three phrases: flexibility, efficiency, and strategic value:
+
+- Flexibility - Users can scale cloud services to fit their needs, customize applications, and access the internet to work at any time, anywhere.
+- Efficiency - Enterprise users can bring applications to market quickly, without worrying about the high cost of infrastructure or maintenance.
+- Strategic value - Cloud services help business compete with the most up-to-date technology.
+
+
+### Cloud enhances innovation
+Innovation keeps companies ahead of the technology curve! Think of the innovations that have transformed your own life: phones that put computers in your pocket, cars that guide you down unfamiliar roads, artificial intelligence (AI) that helps doctors choose better treatments for your family.
+
+Technical innovations depend on the cloud, making it the gateway to AI, blockchain, the Internet of Things (IoT), and even quantum computing. To stay ahead, businesses need the cloud and its rapid, easy-to-update information management.
+
