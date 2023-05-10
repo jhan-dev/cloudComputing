@@ -135,3 +135,47 @@ Is the use of more than one public cloud. It lets a company choose different ser
 ### Workload
 - A workload is a discrete capability or amount of work to be run in the cloud, such as serving up a website.
 
+
+### Cloud Computing Summary
+
+A staggering amount of fresh data is
+added to the world every day!
+
+2.5 quintillion bytes
+
+### Programming languages for Cloud
+- Python
+- Perl
+- Ruby
+- Puppet
+- Chef
+- Anisble
+- Docker
+- VMware
+- PHP
+- Java
+- .NET
+
+### Major Vendors' training/credential programs:
+- AWS
+- Azure
+- Google Cloud
+- IBM CLoud
+- Red Hat
+
+### Getting started
+- Internship
+- Training
+- College Degree
+- Learning Programming Languages
+- Certificate Programs
+
+### Cloud Computing Roles
+- Cloud Architect
+- Cloud Administrator
+- Cloud Engineer
+- Cloud Application Developer
+- Cloud Security Manager
+- Cloud Network Engineer
+- Cloud Automation Engineer
+
